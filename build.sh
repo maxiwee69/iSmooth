@@ -1,0 +1,2 @@
+make package FINALPACKAGE=1
+make package THEOS_PACKAGE_SCHEME=rootless FINALPACKAGE=1

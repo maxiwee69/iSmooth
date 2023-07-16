@@ -1,0 +1,9 @@
+Package: de.maxiwee.ismooth
+Name: iSmooth
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: A tweak to hide the dock background, the page dots, the app names, the focus indicator on the lockscreen, the quick actions on the lockscreen, the homebar and hides the name of the app library category.
+Maintainer: maxiwee
+Author: maxiwee
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
